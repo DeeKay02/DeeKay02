@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development, ML & Blockchain <br>👯 I’m looking to collaborate on any technology.<br>🤝 I’m looking for help with learning and contributing.<br>🌱 I’m currently learning Web Development & Blockchain <br>💬 Ask me about anything.<br>⚡ Fun fact: I'm a Hypnotist!
+🔭 I’m currently working on Web Development, ML & Blockchain <br>👯 I’m looking to collaborate on any technology.<br>🤝 I’m looking for help with learning and contributing.<br>🌱 I’m currently learning Web Development & Blockchain <br>💬 Ask me about anything.<br>⚡ Fun fact: I'm a Hypnotist!<br>🏫 Cureently pursuing 3rd B.Tech. Computer Science and Engineering in Vellore Institute of Technology (VIT), Vellore
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-### 🏫 Cureently pursuing 3rd B.Tech. Computer Science and Engineering in Vellore Institute of Technology (VIT), Vellore
