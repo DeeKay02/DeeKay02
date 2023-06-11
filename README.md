@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development, ML & Blockchain <br>👯 I’m looking to collaborate on any technology.<br>🤝 I’m looking for help with learning and contributing.<br>🌱 I’m currently learning Web Development & Blockchain <br>💬 Ask me about anything.<br>⚡ Fun fact: I'm a Hypnotist!<br>🏫 Cureently pursuing 3rd B.Tech. Computer Science and Engineering in Vellore Institute of Technology (VIT), Vellore
+🔭 I’m currently working on Web Development & Blockchain <br>👯 I’m looking to collaborate on any technology.<br>🤝 I’m looking for help with learning and contributing.<br>🌱 I’m currently learning Web Development & Blockchain <br>💬 Ask me about anything.<br>⚡ Fun fact: I'm an [NFT](https://opensea.io/TheHypnotist) Collector!<br>🏫 Currently pursuing B.Tech. Computer Science and Engineering in Vellore Institute of Technology (VIT), Vellore
 
 
 ## 🌐 Socials:
